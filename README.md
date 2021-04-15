@@ -1,2 +1,2 @@
 # Truckish-challenge-backend
-Node restful api server
+Basic template for Restful node web server
